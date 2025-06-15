@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋</h1>
-<center>
+<div align="center">
 
 [![Codewars](https://www.codewars.com/users/Brain4ess/badges/small)](https://www.codewars.com/users/Brain4ess)
 
@@ -25,4 +25,4 @@
 [![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=docker)](https://github.com/docker)
 
 
-</center>
+</div>
