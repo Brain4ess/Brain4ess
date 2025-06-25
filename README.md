@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hi there <image src="steam_happy.png" width="30px" height="30px" alt="Brain4ess"/></h1>
 <div align="center">
 
 [![Codewars](https://www.codewars.com/users/Brain4ess/badges/small)](https://www.codewars.com/users/Brain4ess)
