@@ -6,14 +6,11 @@
 
 ## Languages and Tools
 [![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=336d9c)](https://www.python.org/)
-[![UV](https://img.shields.io/badge/-UV-090909?style=for-the-badge)](https://github.com/astral-sh/uv)
 [![Selenium](https://img.shields.io/badge/-Selenium-090909?style=for-the-badge&logo=selenium&logoColor=01ae00)](https://www.selenium.dev/)
 [![PyGame](https://img.shields.io/badge/-PyGame-090909?style=for-the-badge)](https://www.pygame.org/)
 [![PyTest](https://img.shields.io/badge/-PyTest-090909?style=for-the-badge&logo=pytest&logoColor=009de0)](https://pytest.org/)
-[![Colorama](https://img.shields.io/badge/-Colorama-090909?style=for-the-badge)](https://github.com/tartley/colorama)
 [![aiogram](https://img.shields.io/badge/-aiogram-090909?style=for-the-badge)](https://github.com/aiogram/aiogram)
 [![aiogram-dialog](https://img.shields.io/badge/-aiogram%20dialog-090909?style=for-the-badge)](https://github.com/Tishka17/aiogram_dialog)
-[![requests](https://img.shields.io/badge/-requests-090909?style=for-the-badge)](https://github.com/psf/requests)
 [![dotenv](https://img.shields.io/badge/-dotenv-090909?style=for-the-badge&logo=dotenv)](https://github.com/theskumar/python-dotenv)
 
 
